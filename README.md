@@ -16,7 +16,7 @@ This repository houses the materials underpinning a [one-day NCRM course on web 
 
 ### Programme
 
-The course programme can be viewed [here](https://github.com/DiarmuidM/ncrm-web-scraping-for-social-scientists-2023/Web-scraping-for-social-scientists-programme.pdf).
+The course programme can be viewed [here]https://github.com/DiarmuidM/ncrm-web-scraping-for-social-scientists-2023/blob/main/Web-scraping-for-social-scientists-programme.pdf).
 
 ### Materials
 
