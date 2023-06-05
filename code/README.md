@@ -1,14 +1,19 @@
-# Python code
+# Web scraping for social scientists
 
-We have developed a number of Jupyter notebooks &mdash; electronic documents that can also execute programming code &mdash; to help you learn web scraping.
+## Interactive coding materials
 
-You can download these notebooks to your own machine but, for learning purposes, it is easier to just launch them in your browser &mdash; click on the button below. Using the notebooks this way means you do not need to install any software on your machine. Once the online service (Binder) has launched, click on the notebook you want to run. (*Don't worry if takes up to a minute to launch*)
+The lessons contain Python code for you to execute / run.
 
-### Launch Web scraping to build social research data as a Binder service: [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DiarmuidM/ncrm-web-scraping-to-build-social-research-data/main?filepath=code)
+Typically you would download the data / code files to your local machine (e.g., laptop).
 
-If you want to follow the course programme, then here is the order to work through the notebooks:
-1. ncrm-web-scraping-example-1-2021-05-17.ipynb
-2. ncrm-web-scraping-example-2-2021-05-17.ipynb
-3. ncrm-web-scraping-practical-aus-charities-2021-05-17.ipynb
-4. ncrm-web-scraping-practical-aus-charities-solution-2021-05-17.ipynb
-5. ncrm-web-scraping-practical-own-idea-2021-05-17.ipynb
+However you can complete the lessons online without the need to install or download anything. Simply click on the relevant link below.
+
+If you have a Google account then please click the *Open in Colab* link. Otherwise please click the *Launch Binder* link. [Google Colab is more reliable, so we strongly recommend interacting with the materials through this]
+
+### Coding lessons
+
+Web scraping for social scientists: Example 1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DiarmuidM/data-analysis-for-the-social-sciences-2022/blob/main/lessons/dass-week-3-doing-data-analysis-2022-09-26.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DiarmuidM/data-analysis-for-the-social-sciences-2022/HEAD?labpath=lessons%2Fdass-week-3-doing-data-analysis-2022-09-26.ipynb)
+
+Web scraping for social scientists: Example 2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DiarmuidM/data-analysis-for-the-social-sciences-2022/blob/main/lessons/dass-week-9-univariate-analysis-2022-11-07.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DiarmuidM/data-analysis-for-the-social-sciences-2022/HEAD?labpath=lessons%2Fdass-week-9-univariate-analysis-2022-11-07.ipynb)
+
+Web scraping for social scientists: Practical exercise [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DiarmuidM/data-analysis-for-the-social-sciences-2022/blob/main/lessons/dass-week-9-univariate-analysis-2022-11-07.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DiarmuidM/data-analysis-for-the-social-sciences-2022/HEAD?labpath=lessons%2Fdass-week-9-univariate-analysis-2022-11-07.ipynb)

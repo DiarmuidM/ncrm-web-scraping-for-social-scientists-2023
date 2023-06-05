@@ -17,6 +17,6 @@ Website: [https://www.bbc.co.uk/programmes/b006qnmr/episodes/player](https://www
 
 Choose a website that you are interested and write a simple script that collects data from it.
 
-### Challenge 3 - Course Exercises
+### Challenge 3 - Course Examples
 
-Take some more time to finish the web scraping exercises contained in the [Jupyter notebooks](https://github.com/DiarmuidM/ncrm-web-scraping-for-social-scientists-2023/tree/main/code).
+Take some more time to finish the web scraping examples contained in the [Jupyter notebooks](https://github.com/DiarmuidM/ncrm-web-scraping-for-social-scientists-2023/tree/main/code).
