@@ -1,6 +1,12 @@
-# Resource List
+# Web scraping for social scientists
+
+## Resource List
 
 The following are suggested books, papers, websites and other resources for reinforcing and extending your learning from the course.
+
+### Computational Social Science
+
+Hogan, B. (2022). *From Social Science to Data Science*. <a href="https://uk.sagepub.com/en-gb/eur/from-social-science-to-data-science/book270152" target=_blank>https://uk.sagepub.com/en-gb/eur/from-social-science-to-data-science/book270152</a>
 
 ### Digital Data
 
