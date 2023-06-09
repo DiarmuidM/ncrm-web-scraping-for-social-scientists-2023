@@ -22,6 +22,7 @@ The course programme can be viewed [here]https://github.com/DiarmuidM/ncrm-web-s
 
 The training materials can be found in the following folders:
 * [code](./code) - Jupyter Notebooks containing executable Python code for the web scraping lessons.
+* [installation](./installation) - Guidance on installing Python Jupyter Notebooks.
 * [presentations](./presentations) - PDF versions of the course lectures.
 * [reading](./reading) - lists of interesting and relevant web scraping online articles.
 
